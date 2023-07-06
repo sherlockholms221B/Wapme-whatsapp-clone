@@ -56,7 +56,7 @@ To run the WapMe app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sherlockholms221B/Wapme-whatsapp-clone
 
 2. Install dependencies:
 
