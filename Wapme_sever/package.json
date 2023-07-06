@@ -19,6 +19,7 @@
   "homepage": "https://github.com/sherlockholms221B/Wapme-whatsapp-clone/tree/main#readme",
   "dependencies": {
     "@prisma/client": "^4.14.0",
+    "colors": "^1.4.0",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "dotenv": "^16.0.3",
