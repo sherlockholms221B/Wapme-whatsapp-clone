@@ -40,6 +40,5 @@ function login() {
       </div>
     </div>
   );
-}
 
 export default login;
